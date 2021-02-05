@@ -14,4 +14,16 @@ Download the source code from the repository and run the file just as any other 
 
 ## Screenshots
 
+Initial screen
 
+![](images/initial.png)
+
+
+Successful Download
+
+![](images/success_download.png)
+
+
+Failed Download
+
+![](images/fail_download.png)
